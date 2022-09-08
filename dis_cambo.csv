@@ -1,0 +1,205 @@
+dis_id,pro_id,dis_name
+102,1,Mongkol Borei
+103,1,Phnum Srok
+104,1,Preah Netr Preah
+105,1,Ou Chrov
+106,1,Serei Saophoan
+107,1,Thma Puok
+108,1,Svay Chek
+109,1,Malai
+110,1,Paoy Paet
+201,2,Banan
+202,2,Thma Koul
+203,2,Battambang
+204,2,Bavel
+205,2,Aek Phnum
+206,2,Moung Ruessei
+207,2,Rotonak Mondol
+208,2,Sangkae
+209,2,Samlout
+210,2,Sampov Lun
+211,2,Phnum Proek
+212,2,Kamrieng
+213,2,Koas Krala
+214,2,Rukh Kiri
+301,3,Batheay
+302,3,Chamkar Leu
+303,3,Cheung Prey
+305,3,Kampong Cham
+306,3,Kampong Siem
+307,3,Kang Meas
+308,3,Kaoh Soutin
+313,3,Prey Chhor
+314,3,Srei Santhor
+315,3,Stueng Trang
+401,4,Baribour
+402,4,Chol Kiri
+403,4,Kampong Chhnang
+404,4,Kampong Leaeng
+405,4,Kampong Tralach
+406,4,Rolea B'ier
+407,4,Sameakki Mean Chey
+408,4,Tuek Phos
+501,5,Basedth
+502,5,Chbar Mon
+503,5,Kong Pisei
+504,5,Aoral
+505,5,Odongk
+506,5,Phnum Sruoch
+507,5,Samraong Tong
+508,5,Thpong
+601,6,Baray
+602,6,Kampong Svay
+603,6,Stueng Saen
+604,6,Prasat Ballangk
+605,6,Prasat Sambour
+606,6,Sandan
+607,6,Santuk
+608,6,Stoung
+609,6,Taing Kouk
+701,7,Angkor Chey
+702,7,Banteay Meas
+703,7,Chhuk
+704,7,Chum Kiri
+705,7,Dang Tong
+706,7,Kampong Trach
+707,7,Tuek Chhou
+708,7,Kampot
+709,7,Bokor
+801,8,Kandal Stueng
+802,8,Kien Svay
+803,8,Khsach Kandal
+804,8,Kaoh Thum
+805,8,Leuk Daek
+806,8,Lvea Aem
+807,8,Mukh Kampul
+808,8,Angk Snuol
+809,8,Ponhea Lueu
+810,8,S'ang
+811,8,Ta Khmau
+901,9,Botum Sakor
+902,9,Kiri Sakor
+903,9,Kaoh Kong
+904,9,Khemara Phoumin
+905,9,Mondol Seima
+906,9,Srae Ambel
+907,9,Thma Bang
+1001,10,Chhloung
+1002,10,Kracheh
+1003,10,Prek Prasab
+1004,10,Sambour
+1005,10,Snuol
+1006,10,Chetr Borei
+1101,11,Kaev Seima
+1102,11,Kaoh Nheaek
+1103,11,Ou Reang
+1104,11,Pech Chreada
+1105,11,Saen Monourom
+1201,12,Chamkar Mon
+1202,12,Doun Penh
+1203,12,Prampir Meakkakra
+1204,12,Tuol Kouk
+1205,12,Dangkao
+1206,12,Mean Chey
+1207,12,Russey Keo
+1208,12,Saensokh
+1209,12,Pur SenChey
+1210,12,Chraoy Chongvar
+1211,12,Praek Pnov
+1212,12,Chbar Ampov
+1213,12,Boeng Keng Kang
+1214,12,Kamboul
+1301,13,Chey Saen
+1302,13,Chhaeb
+1303,13,Choam Ksant
+1304,13,Kuleaen
+1305,13,Rovieng
+1306,13,Sangkum Thmei
+1307,13,Tbaeng Mean Chey
+1308,13,Preah Vihear
+1401,14,Ba Phnum
+1402,14,Kamchay Mear
+1403,14,Kampong Trabaek
+1404,14,Kanhchriech
+1405,14,Me Sang
+1406,14,Peam Chor
+1407,14,Peam Ro
+1408,14,Pea Reang
+1409,14,Preah Sdach
+1410,14,Prey Veng
+1411,14,Pur Rieng
+1412,14,Sithor Kandal
+1413,14,Svay Antor
+1501,15,Bakan
+1502,15,Kandieng
+1503,15,Krakor
+1504,15,Phnum Kravanh
+1505,15,Pursat
+1506,15,Veal Veaeng
+1507,15,Ta Lou Senchey
+1601,16,Andoung Meas
+1602,16,Ban Lung
+1603,16,Bar Kaev
+1604,16,Koun Mom
+1605,16,Lumphat
+1606,16,Ou Chum
+1607,16,Ou Ya Dav
+1608,16,Ta Veaeng
+1609,16,Veun Sai
+1701,17,Angkor Chum
+1702,17,Angkor Thum
+1703,17,Banteay Srei
+1704,17,Chi Kraeng
+1706,17,Kralanh
+1707,17,Puok
+1709,17,Prasat Bakong
+1710,17,Siem Reap
+1711,17,Soutr Nikom
+1712,17,Srei Snam
+1713,17,Svay Leu
+1714,17,Varin
+1801,18,Preah Sihanouk
+1802,18,Prey Nob
+1803,18,Stueng Hav
+1804,18,Kampong Seila
+1805,18,Kaoh Rung
+1901,19,Sesan
+1902,19,Siem Bouk
+1903,19,Siem Pang
+1904,19,Stueng Traeng
+1905,19,Thala Barivat
+1906,19,Borei Ou Svay Senchey
+2001,20,Chantrea
+2002,20,Kampong Rou
+2003,20,Rumduol
+2004,20,Romeas Haek
+2005,20,Svay Chrum
+2006,20,Svay Rieng
+2007,20,Svay Teab
+2008,20,Bavet
+2101,21,Angkor Borei
+2102,21,Bati
+2103,21,Borei Cholsar
+2104,21,Kiri Vong
+2105,21,Kaoh Andaet
+2106,21,Prey Kabbas
+2107,21,Samraong
+2108,21,Doun Kaev
+2109,21,Tram Kak
+2110,21,Treang
+2201,22,Anlong Veaeng
+2202,22,Banteay Ampil
+2203,22,Chong Kal
+2204,22,Samraong
+2205,22,Trapeang Prasat
+2301,23,Damnak Chang'aeur
+2302,23,Kaeb
+2401,24,Pailin
+2402,24,Sala Krau
+2501,25,Dambae
+2502,25,Krouch Chhmar
+2503,25,Memot
+2504,25,Ou Reang Ov
+2505,25,Ponhea Kraek
+2506,25,Suong
+2507,25,Tboung Khmum
