@@ -2,3 +2,6 @@
 *.jpeg
 *.png
 *.csv
+
+#virtual environment
+venv
